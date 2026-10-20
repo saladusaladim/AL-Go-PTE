@@ -9,3 +9,6 @@ Please go to https://aka.ms/AL-Go to learn more.
 Please read [this](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contribute.md) description on how to contribute to AL-Go for GitHub.
 
 We do not accept Pull Requests on the template repository directly.
+
+
+[![Create a new app](https://github.com/saladusaladim/AL-Go-PTE/actions/workflows/CreateApp.yaml/badge.svg)](https://github.com/saladusaladim/AL-Go-PTE/actions/workflows/CreateApp.yaml)
